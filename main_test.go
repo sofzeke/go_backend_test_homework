@@ -1,5 +1,5 @@
 package main
-
+//просто тест
 import (
 	"os"
 	"testing"
